@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm YZJ</h1>
+
+![image](https://github.com/longsongline/Steins-Gate-Divergence-Meter-Clock-VisitorCounter/raw/main/OVK2VX@NSLC2YR_%7B5WVP%7D%7DQ.png)
 <h3 align="center">A passionate frontend developer from CN</h3>
 
 <h3 align="left">Languages and Tools:</h3>
